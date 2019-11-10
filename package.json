@@ -1,0 +1,10 @@
+{
+  "name": "threejs-cones",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "three": "0.92.0",
+    "@types/three": "0.92.0",
+    "three-orbitcontrols-ts": "0.1.2"
+  }
+}
